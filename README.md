@@ -12,8 +12,6 @@
 - Create, Read, Delete Replies (Anonymous, Non-Anonymous)
 - Any other user shouldn't able to identify who posted what anonymously
 
-For the complete list of requirements, visit Now&Me's Github\
- [![DOCS](https://img.shields.io/badge/Now&Me%20GitHub-see%20requirements-black?style=flat-square&logo=github)](https://github.com/nowandme/backend-developer-task)
 
 ## Tech Stack
 
